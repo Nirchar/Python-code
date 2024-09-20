@@ -1,0 +1,74 @@
+"""a=10
+a=20
+print(a)
+
+a=10
+print(id(a))"""
+
+"""a="hello"
+print(a[3])
+
+a="hello"
+print(a[0:5:4])
+
+a="swapnodaya"
+print(a[1:10:2])
+
+b="malayalam"
+print(b[-1:-10:-1])
+
+b="malayalam"
+print(b[3:5:-1])
+
+b="malayalam"
+pri\nt(b[0::-1])"""
+
+"""b="malayalam"
+print(b[-10::-2])
+
+b="malayalam"
+print(b[-9::-2])
+
+b="malayalam"
+print(b[-7::-2])"""
+
+#LIST
+"""a=[1,2,'hello',4]
+print(a[2][0:2])"""
+
+"""a=['2','hi',[10,20,30],54]
+print(a[2][2])"""
+
+"""a=10
+print([10]+[])  without list() function
+
+a={1:False,2:{False:True},3:[1,2,3]}
+print(a[2][False])"""
+
+"""insta=input("enter your name:")
+password = input("enter your password:")
+if insta=='mn':
+    print("user id correct")
+    if password=='567':
+        print("password is correct ")
+        otp = input("enter your otp:")
+        if otp=='345':
+            print("login successful")
+        else:
+            print("login unsuccessful")
+    else:
+        print("password is incorrect and re-enter correct password")
+else:
+    print("user id wrong")"""
+
+"""a=int(input("enter your grade:"))
+if a>=90 and a<=100:
+    print("grade A")
+elif a>=70 and a<=89:
+    print("grade B")
+elif a>=60 and a<=79:
+    print("grade c")
+elif a>=50 and a<=69:
+    print("grade D")
+else:
+    print("fail")"""
